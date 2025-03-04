@@ -1,3 +1,3 @@
 # Generate Release Sample
 
-リリースノートを自動生成するサンプルコード
+GitHub Actionsでリリースノートを自動生成するサンプル
